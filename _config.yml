@@ -5,3 +5,27 @@ logo: assets/img/profile.jpg
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+
+# Site Author
+author:
+  name             : "Jaewook Lee"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "<i>Applying,<br>NLP,<br> for education.</i>"
+  location         :
+  email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jaewooklee@umass.edu
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/chriskhanhtran"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jaewook-lee-67791918b/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/LeeJaewookJake"
+    - label: "YouTube"
+      # icon: "fab fa-fw fa-youtube"
+      # url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
