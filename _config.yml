@@ -26,6 +26,20 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/LeeJaewookJake"
-    - label: "YouTube"
+    # - label: "YouTube"
       # icon: "fab fa-fw fa-youtube"
       # url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
+
+# # Site Footer
+# footer:
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: mailto:jaewooklee@umass.edu
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/jaewook-lee-67791918b/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://x.com/LeeJaewookJake"
+      
