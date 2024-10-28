@@ -1,5 +1,7 @@
-title: Jaewook Lee
+title: Hello World!
 logo: assets/img/profile.jpg
 # description: UMass CS Ph.D. Student
 # show_downloads: true
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
