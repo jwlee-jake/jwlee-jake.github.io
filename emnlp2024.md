@@ -104,3 +104,5 @@ Table: Verbal cues used for human evaluation. Keywords are represented in italic
 | virtuoso      | *Veer*'s talent was *too* remarkable, *so* he became a **virtuoso**.                                                   | This **virtuoso** has a *virtue* *oh* *so* rare - he spreads cheer far and near.                             |
 
 ---
+
+[Back to Home](./)
