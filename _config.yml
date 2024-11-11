@@ -7,7 +7,7 @@ github:
 
 navigation:
   - name: home
-    link: /
+    link: ./index.html
   - name: EMNLP2024
     link: ./emnlp2024.html
     
