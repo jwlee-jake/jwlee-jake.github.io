@@ -2,18 +2,10 @@
 layout: default
 ---
 
-## EMNLP 2024 Findings
-**Session**: NLP Applications 2  
-**Date & Time**: Wednesday, Nov 13, 10:30-12:00  
-**Location**: Riverfront Hall  
-
-### Poster Title
-**Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank**
-
-#### Criteria
+# Human Evaluation Criteria
 Guidelines for rating on a 5-point Likert scale for imageability, coherence, and usefulness.
 
-##### Imageability
+## Imageability
 
 | Scale      | Explanation                                                                                                     |
 |------------|-----------------------------------------------------------------------------------------------------------------|
@@ -21,7 +13,7 @@ Guidelines for rating on a 5-point Likert scale for imageability, coherence, and
 | Medium (3) | The sentence evokes a reasonable level of imagery: minor inconsistencies may exist, but a mental image forms.   |
 | Low (1)    | The sentence lacks substantial imagery, making it challenging to form any meaningful mental image.              |
 
-##### Coherence
+## Coherence
 
 | Scale      | Explanation                                                                                                    |
 |------------|----------------------------------------------------------------------------------------------------------------|
@@ -29,7 +21,7 @@ Guidelines for rating on a 5-point Likert scale for imageability, coherence, and
 | Medium (3) | The sentence is moderately coherent: minor issues affect clarity in understanding the meaning.                 |
 | Low (1)    | The sentence lacks coherence: it’s difficult to understand or read due to illogical structure or grammar.      |
 
-##### Usefulness
+## Usefulness
 
 | Scale      | Explanation                                                                                                                       |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +29,7 @@ Guidelines for rating on a 5-point Likert scale for imageability, coherence, and
 | Medium (3) | The sentence has minor issues impacting its usefulness, but it could be helpful with some modifications.                          |
 | Low (1)    | This sentence is not useful at all.                                                                                               |
 
-#### Keyword Mnemonics
+# Keyword Mnemonics
 Table: Verbal cues used for human evaluation. Keywords are represented in italic, while a target word is in bold. An asterisk (\*) indicates an anomaly in verbal cue generation using LLM.
 
 | Word          | LLM-generated                                                                                                               | Human-authored                                                                                                   |
