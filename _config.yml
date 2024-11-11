@@ -1,12 +1,16 @@
 title: 👋 EMNLP Attendees!
 logo: assets/img/profile.jpg
-# description: UMass CS Ph.D. Student
-# show_downloads: true
 favicon: true
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
 
+navigation:
+  - name: home
+    link: /
+  - name: EMNLP2024
+    link: ./emnlp2024.html
+    
 platforms:
   # - name: GitHub
   #   icon: <i class="fa-brands fa-github"></i>
@@ -38,11 +42,6 @@ author:
     # - label: "YouTube"
       # icon: "fab fa-fw fa-youtube"
       # url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
-navigation:
-  - name: home
-    link: /
-  - name: EMNLP2024
-    link: ./emnlp2024.html
     # sublist:
     #   - name: Human Evaluation Critera
     #     link: ./#Criteria
