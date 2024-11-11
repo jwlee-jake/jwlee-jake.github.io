@@ -70,10 +70,10 @@ Developed an ONNX Runtime interface for PIM platforms, optimizing DNN partitioni
 ## Publications  
 (* denotes equal contribution)
 
-- **Jaewook Lee**, Hunter McNichols, Andrew Lan, “Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank,” *Findings of the Association for Computational Linguistics: EMNLP, Florida, USA*, 2024 📎  
-- Wanyong Feng\*, **Jaewook Lee**\*, Hunter McNichols\*, Alexander Scarlatos\*, Digory Smith, Simon Woodhead, Nancy Otero Ornelas, Andrew Lan, “Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models,” *Findings of the Association for Computational Linguistics: NAACL, Mexico City, Mexico*, 2024 📎  
-- Seok Young Kim\*, **Jaewook Lee**\*, Yoonah Paik, Chang Hyun Kim, Won Jun Lee, Seon Wook Kim, “Optimal Model Partitioning with Low-Overhead Profiling on the PIM-based Platform for Deep Learning Inference,” *ACM Transactions on Design Automation of Electronic Systems, 29(2)*, 1-22 📎  
-- **Jaewook Lee**, Andrew Lan, “SmartPhone: Exploring Keyword Mnemonic with Auto-generated Verbal and Visual Cues,” *International Conference on Artificial Intelligence in Education (AIED), Tokyo, Japan*, 2023 📎
+- **Jaewook Lee**, Hunter McNichols, Andrew Lan, “Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank,” *Findings of the Association for Computational Linguistics: EMNLP, Florida, USA*, 2024 [📎](https://aclanthology.org/2024.findings-emnlp.316.pdf)  
+- Wanyong Feng\*, **Jaewook Lee**\*, Hunter McNichols\*, Alexander Scarlatos\*, Digory Smith, Simon Woodhead, Nancy Otero Ornelas, Andrew Lan, “Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models,” *Findings of the Association for Computational Linguistics: NAACL, Mexico City, Mexico*, 2024 [📎](https://arxiv.org/pdf/2404.02124) 
+- Seok Young Kim\*, **Jaewook Lee**\*, Yoonah Paik, Chang Hyun Kim, Won Jun Lee, Seon Wook Kim, “Optimal Model Partitioning with Low-Overhead Profiling on the PIM-based Platform for Deep Learning Inference,” *ACM Transactions on Design Automation of Electronic Systems, 29(2)*, 1-22 [📎](https://dl.acm.org/doi/pdf/10.1145/3628599)  
+- **Jaewook Lee**, Andrew Lan, “SmartPhone: Exploring Keyword Mnemonic with Auto-generated Verbal and Visual Cues,” *International Conference on Artificial Intelligence in Education (AIED), Tokyo, Japan*, 2023 [📎](https://arxiv.org/pdf/2305.10436)
 
 ---
 
