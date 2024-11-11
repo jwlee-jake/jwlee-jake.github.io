@@ -30,11 +30,13 @@ author:
       # icon: "fab fa-fw fa-youtube"
       # url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
 navigation:
-  - name: Home
+  - name: home
     link: /
-    sublist:
-      - name: Human Evaluation Critera
-        link: ./#Criteria
+  - name: EMNLP2024
+    link: ./emnlp2024.html
+    # sublist:
+    #   - name: Human Evaluation Critera
+    #     link: ./#Criteria
   # - name: Another Page
   #   link: ./another-page.html
   # - ...
