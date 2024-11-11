@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## EMNLP 2024 Findings
 **Session**: NLP Applications 2  
 **Date & Time**: Wednesday, Nov 13, 10:30-12:00  
