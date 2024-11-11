@@ -29,7 +29,15 @@ author:
     # - label: "YouTube"
       # icon: "fab fa-fw fa-youtube"
       # url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
-
+navigation:
+  - name: Home
+    link: /
+    sublist:
+      - name: Human Evaluation Critera
+        link: ./#Criteria
+  # - name: Another Page
+  #   link: ./another-page.html
+  # - ...
 # # Site Footer
 # footer:
 #   links:
