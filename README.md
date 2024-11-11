@@ -16,7 +16,8 @@ Exploring Automated Keyword Mnemonics Generation with Large Language Models via 
 #### Abstract: 
 In this paper, we study an under-explored area of language and vocabulary learning: keyword mnemonics, a technique for memorizing vocabulary through memorable associations with a target word via a verbal cue. Typically, creating verbal cues requires extensive human effort and is quite time-consuming, necessitating an automated method that is more scalable. We propose a novel overgenerate-and-rank method via prompting large language models (LLMs) to generate verbal cues and then ranking them according to psycholinguistic measures and takeaways from a pilot user study. To assess cue quality, we conduct both an automated evaluation of imageability and coherence, as well as a human evaluation involving English teachers and learners. Results show that LLM-generated mnemonics are comparable to human-generated ones in terms of imageability, coherence, and perceived usefulness, but there remains plenty of room for improvement due to the diversity in background and preference among language learners.
 
-[Link to Supplementary Materials](./emnlp2024.html).
+[Link to Paper](https://aclanthology.org/2024.findings-emnlp.316.pdf)
+[Link to Supplementary Materials](./emnlp2024.html)
 
 ---
 
