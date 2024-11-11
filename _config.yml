@@ -1,7 +1,9 @@
 title: 👋 EMNLP Attendees!
 logo: assets/img/profile.jpg
+description: Jaewook (Jake) Lee
 favicon: true
 theme: jekyll-theme-minimal
+email: jaewooklee@cs.umass.edu
 github:
   is_project_page: false
 
