@@ -12,16 +12,7 @@
 ### Poster Title
 **Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank**
 
-| Word       | LLM-generated                                                                                      | Human-authored                                                                      |
-|------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| abstemious | *Ab*'s diet of only the *stem* of vegetables taught *me* and *us* to be more **abstemious**.       | *Ab*'s *steamy* with *us* when he tells us to be **abstemious**.                    |
-| accolade   | The *echo* of the *lad*'s music earned him an **accolade**.                                        | *A* *coal* *aide* receives an **accolade**.                                        |
-| aesthetic  | *As* *the* clock *ticked*, he was captivated by the **aesthetic** appeal of the painting.          | Oh beautiful *S*! *That* *tick* tickles the **aesthetic** sense!                    |
-| appease    | He cooks *a* dish with *peas* to **appease** her anger.                                            | Tom was **appeasing** a pot *o'* *peas*.                                           |
-| archaic    | The twins wonder " *are* these *cake* instructions?" from an **archaic** recipe book.              | Sick kangaroos ride on **archaic** *Ark* *K* - "*Ick!*" is all they can say.       |
-| artisan    | In the *art*-loving town, the **artisan** sips his *tea* under the *sun*.                          | "*Art* *is* *sin*," says the Puritan to the **artisan**.                           |
-
-*Table 1: Verbal cues used for human evaluation. Keywords are represented in *italic*, while a target word is in **bold**. \* indicates an anomaly in verbal cue generation using LLM.*
+Table: Verbal cues used for human evaluation. Keywords are represented in italic, while a target word is in bold. An asterisk (\*) indicates an anomaly in verbal cue generation using LLM.
 
 | Word          | LLM-generated                                                                                                               | Human-authored                                                                                                   |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -86,7 +77,6 @@
 | unwarranted   | An unexpected '*un*' *war* *ran* through *Ted*'s land, leading to his **unwarranted** accusation.                       | "*A* *warrant*?" *Ted* asked. "That's **unwarranted**."                                                      |
 | virtuoso      | *Veer*'s talent was *too* remarkable, *so* he became a **virtuoso**.                                                   | This **virtuoso** has a *virtue* *oh* *so* rare - he spreads cheer far and near.                             |
 
-*Table: Verbal cues used for human evaluation. Keywords are represented in italic, while a target word is in bold. An asterisk (\*) indicates an anomaly in verbal cue generation using LLM.*
 ---
 
 ## Summary  
