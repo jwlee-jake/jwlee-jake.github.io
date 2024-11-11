@@ -5,20 +5,20 @@
 
 ---
 
-## EMNLP 2024 Findings
+## EMNLP 2024 Findings - 1107
 **Session**: NLP Applications 2  
 **Date & Time**: Wednesday, Nov 13, 10:30-12:00  
 **Location**: Riverfront Hall  
 
-### Poster Title
-**Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank**
+### Title: Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank
+#### Abstract: In this paper, we study an under-explored area of language and vocabulary learning: keyword mnemonics, a technique for memorizing vocabulary through memorable associations with a target word via a verbal cue. Typically, creating verbal cues requires extensive human effort and is quite time-consuming, necessitating an automated method that is more scalable. We propose a novel overgenerate-and-rank method via prompting large language models (LLMs) to generate verbal cues and then ranking them according to psycholinguistic measures and takeaways from a pilot user study. To assess cue quality, we conduct both an automated evaluation of imageability and coherence, as well as a human evaluation involving English teachers and learners. Results show that LLM-generated mnemonics are comparable to human-generated ones in terms of imageability, coherence, and perceived usefulness, but there remains plenty of room for improvement due to the diversity in background and preference among language learners.
 
 [Link to Supplementary Materials](./emnlp2024.html).
 
 ---
 
-## Summary  
-Jake is a Ph.D. student in Computer Science at the University of Massachusetts, Amherst, specializing in generative AI and large language models (LLMs) with a focus on education. He excels in designing experiments, developing methods, and building interfaces for human evaluation, leading to publications in top conferences like EMNLP and NAACL. He also has a strong background in computer systems and deep learning frameworks, having developed device-framework interfaces and optimized inference performance through profiling and scheduling algorithms, published in ACM TODAES.
+## About Me
+Jake is a Ph.D. student in Computer Science at the University of Massachusetts, Amherst, applying generative AI and large language models (LLMs) to solve real-world problems. He excels in designing experiments, developing methods, and building interfaces for human evaluation, leading to publications in top conferences like EMNLP and NAACL. He also has a strong background in computer systems and deep learning frameworks, having developed device-framework interfaces and optimized inference performance through profiling and scheduling algorithms, published in ACM TODAES.
 
 ---
 
