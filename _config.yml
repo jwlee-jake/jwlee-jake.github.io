@@ -1,7 +1,10 @@
 title: 👋 EMNLP Attendees!
 logo: assets/img/profile.jpg
 email: jaewooklee@cs.umass.edu
-description: I am Jake, a CS Ph.D. student @UMass Amherst focused on applying LLMs to solve real-world problems.
+# description: I am Jake, a CS Ph.D. student @UMass Amherst focused on applying LLMs to solve real-world problems.
+description: |
+  Hey there! I'm Jake, a passionate CS Ph.D. student @UMass Amherst, diving deep into the potential of large language models to tackle real-world challenges.
+  I'm on the lookout for an exciting research internship opportunity for summer 2025—let's work together to push the boundaries of what's possible with AI!
 favicon: true
 theme: jekyll-theme-minimal
 # github:
