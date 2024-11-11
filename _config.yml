@@ -4,8 +4,8 @@ email: jaewooklee@cs.umass.edu
 description: I am Jake, a CS Ph.D. student @UMass Amherst focused on applying LLMs to solve real-world problems.
 favicon: true
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+# github:
+#   is_project_page: false
 
 navigation:
   - name: home
