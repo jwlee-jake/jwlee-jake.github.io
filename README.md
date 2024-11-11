@@ -79,25 +79,24 @@ Developed an ONNX Runtime interface for PIM platforms, optimizing DNN partitioni
 
 ## Posters  
 
-- **Jaewook Lee**, Digory Smith, Simon Woodhead, Andrew Lan, “Math Multiple Choice Question Generation via Human-Large Language Model Collaboration,” *International Conference on Educational Data Mining (EDM), Atlanta, USA*, 2024 📎  
-- Hunter McNichols, **Jaewook Lee**, Stephen Fancsali, Steve Ritter, Andrew Lan, “Can Large Language Models Replicate ITS Feedback on Open-Ended Math Questions?”, *International Conference on Educational Data Mining (EDM), Atlanta, USA*, 2024 📎  
-- Nischal Ashok Kumar, Wanyong Feng, **Jaewook Lee**, William Hunter McNichols, and Andrew Lan, “A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing,” *International Conference on Educational Data Mining (EDM), Bengaluru, India*, 2023 📎  
+- **Jaewook Lee**, Digory Smith, Simon Woodhead, Andrew Lan, “Math Multiple Choice Question Generation via Human-Large Language Model Collaboration,” *International Conference on Educational Data Mining (EDM), Atlanta, USA*, 2024 [📎](https://arxiv.org/pdf/2405.00864)  
+- Hunter McNichols, **Jaewook Lee**, Stephen Fancsali, Steve Ritter, Andrew Lan, “Can Large Language Models Replicate ITS Feedback on Open-Ended Math Questions?”, *International Conference on Educational Data Mining (EDM), Atlanta, USA*, 2024 [📎](https://arxiv.org/pdf/2405.06414)  
+- Nischal Ashok Kumar, Wanyong Feng, **Jaewook Lee**, William Hunter McNichols, and Andrew Lan, “A Conceptual Model for End-to-End Causal Discovery in Knowledge Tracing,” *International Conference on Educational Data Mining (EDM), Bengaluru, India*, 2023 [📎](https://arxiv.org/pdf/2305.16165)  
 
 ---
 
 ## Awards  
 
 - **NAEP Math Automated Scoring Challenge Grand Prize** 🏆  
-*Organized by National Center for Education Statistics (NCES)*  
-2023  
+*Organized by National Center for Education Statistics (NCES)*, 2023
+[News Article](https://www.umass.edu/news/article/team-umass-amherst-computer-scientists-wins-top-prize-mathematics-automated-scoring)
+
 
 - **NeurIPS 2022 Causal Edu Competition (Task 3) - 3rd**  
-*Organized by EEDI*  
-2022  
+*Organized by EEDI*, 2022  
 
 - **iOS Application Hackathon Grand Prize** 🏆  
-*Organized by Software Technology and Enterprise, Korea University*  
-2018  
+*Organized by Software Technology and Enterprise, Korea University*, 2018  
 
 ---
 
