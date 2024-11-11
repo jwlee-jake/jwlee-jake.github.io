@@ -12,6 +12,8 @@
 ### Poster Title
 **Exploring Automated Keyword Mnemonics Generation with Large Language Models via Overgenerate-and-Rank**
 
+[Link to Supplementary Materials](./emnlp2024.html).
+
 #### Criteria
 Guidelines for rating on a 5-point Likert scale for imageability, coherence, and usefulness.
 
