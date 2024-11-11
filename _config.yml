@@ -2,10 +2,19 @@ title: 👋 EMNLP Attendees!
 logo: assets/img/profile.jpg
 # description: UMass CS Ph.D. Student
 # show_downloads: true
+favicon: true
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
 
+platforms:
+  # - name: GitHub
+  #   icon: <i class="fa-brands fa-github"></i>
+  #   link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/jaewook-lee-67791918b/
+    
 # Site Author
 author:
   name             : "Jaewook Lee"
